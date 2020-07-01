@@ -1,0 +1,2 @@
+gcc -o main diskManager.c file.c  main.c -lpthread
+
